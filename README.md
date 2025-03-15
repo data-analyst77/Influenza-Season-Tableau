@@ -1,10 +1,21 @@
 # Influenza in the US 
 
 ## Research Context
-Influenza deaths pose a challenge to the US healthcare system. Especially the vulnerable population aged 65+ is at risk.
+The United States has an influenza season where more people than usual
+suffer from the flu. Some people, particularly those in vulnerable populations, develop serious
+complications and end up in the hospital. Hospitals and clinics need additional staff to
+adequately treat these extra patients. The medical staﬃng agency provides this temporary
+staff. Influenza deaths pose a challenge to the US healthcare system. Especially the vulnerable population aged 65+ is at risk.
 
 ## Project Objectives 
-This project provides health insurance providers and policy makers with data-driven insights into healthcare costs by identifying and contextualizing key risk factors using practice-set data. It features a visual storyboard that highlights influential factors and their predictive strength, supported by analytics and scripts for further exploration. Policy makers can use these insights to monitor healthcare cost trends and implement timely interventions, while insurers can leverage the data for budgeting and risk assessment. Both groups can apply the findings to develop preventive measures and promote healthier populations. The interactive storyboard will be hosted on Tableau, with analytics and scripts available on GitHub for transparency and reproducibility.
+Objective: Determine when to send staff, and how many, to each state.
+Scope: The agency covers all hospitals in each of the 50 states of the United States, and
+the project will plan for the upcoming influenza season.
+
+Relevant stakeholders: Medical agency frontline staff (nurses, physician assistants, and doctors)
+● Hospitals and clinics using the staﬃng agency’s services
+● Influenza patients
+● Staﬃng agency administrators
 
 ## Guiding Questions
 1.	Is there evidence to support the common assumption of a positive linear relationship between BMI, age, smoking, and healthcare costs?
