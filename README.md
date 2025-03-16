@@ -37,8 +37,7 @@ The agency covers all hospitals across the 50 U.S. states, and this project aims
 - **CDC Dataset**: Contains influenza-related deaths by state. [Dataset link](https://wonder.cdc.gov/ucd-icd10.html)
 
 ### Data Wrangling & Cleaning
-- Data cleaning, integration, and transformation
-- Handling missing values and inconsistencies
+- Data integration, transformation,handling missing values and inconsistencies
 - Aggregation of data for state-level analysis
 
 ## Methods
