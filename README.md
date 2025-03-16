@@ -30,7 +30,6 @@ The agency covers all hospitals across the 50 U.S. states, and this project aims
 - How do vulnerable populations correlate with hospitalization rates?
 
 ## Data
-> **Note:** The '02_Data' file was not uploaded due to storage constraints.
 
 ### Data Sources
 - **US Census Bureau Data**: Provides population data and age distribution. [Dataset link](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv)
@@ -38,7 +37,7 @@ The agency covers all hospitals across the 50 U.S. states, and this project aims
 
 ### Data Wrangling & Cleaning
 - Data integration, transformation,handling missing values and inconsistencies
-- Aggregation of data for state-level analysis
+- I substituted 'Suppressed' data for number of deaths for random numbers between 0-9 in accordance to the original data source.
 
 ## Methods
 - **Hypothesis testing** to determine statistical significance of trends
