@@ -56,7 +56,3 @@ Detailed analysis results are available in the project script. A visual presenta
 - **Privacy and Confidentiality**: Ensuring patient data is anonymized and used responsibly.
 - **Resource Allocation**: Equitable distribution of medical staff to prioritize high-need areas without neglecting other regions.
 - **Accuracy and Bias**: Addressing potential biases in data collection and interpretation to avoid misinformed staffing decisions.
-
----
-This `README.md` provides a structured overview of the project's goals, data sources, methodology, and ethical considerations, ensuring clarity for stakeholders and contributors.
-
